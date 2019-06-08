@@ -1,7 +1,3 @@
----
-title: 'README'
----
-
 ## Description
 
 Just a simple MariaDB Docker container I made for myself.
